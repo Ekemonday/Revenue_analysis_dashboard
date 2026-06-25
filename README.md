@@ -36,10 +36,10 @@ Insight: Both years show a Q3 weakness, which may point to a seasonal dip in the
 
 ✅ Summary of Key Takeaways
 
-West region needs attention — it's the only region meaningfully lagging behind.
-Weekend revenue is disproportionately strong — a potential area for targeted investment.
+West region needs attention  it's the only region meaningfully lagging behind.
+Weekend revenue is disproportionately strong  a potential area for targeted investment.
 2024 underperformed 2023 overall, but Q4 signals a positive recovery trend.
-Q3 is a recurring weak quarter — proactive strategies should be planned for this period.
+Q3 is a recurring weak quarter  proactive strategies should be planned for this period.
 The business appears stable but has clear growth levers to pull in underperforming regions and quarters.
 <img width="945" height="531" alt="image" src="https://github.com/user-attachments/assets/6ae12b03-9c6c-4068-9b47-9c8cd0f42012" />
 
