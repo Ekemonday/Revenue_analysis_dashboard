@@ -42,3 +42,6 @@ Weekend revenue is disproportionately strong — a potential area for targeted i
 Q3 is a recurring weak quarter — proactive strategies should be planned for this period.
 The business appears stable but has clear growth levers to pull in underperforming regions and quarters.
 <img width="945" height="531" alt="image" src="https://github.com/user-attachments/assets/6ae12b03-9c6c-4068-9b47-9c8cd0f42012" />
+
+LIVE DASHBOARD
+https://app.powerbi.com/view?r=eyJrIjoiOTY1MzBiMGUtMjIwZi00OGU5LWI1NzktMTNkOTczMzZjYzJkIiwidCI6ImVmNDllNWI3LTE2MTktNDM4ZC1hZTZkLTEwY2YwYzA0YjdhNiJ9
