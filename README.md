@@ -11,7 +11,7 @@ The Annual Revenue Performance gauge shows the business is operating at roughly 
 
 🌍 Revenue by Region
 Region Revenue Share North $3.71M~27.5% South $3.65M~27.1% East $3.64M~27.0% West$2.49M~18.5%
-Insight: Revenue is fairly evenly distributed across three regions — North, South, and East  each contributing roughly 27%. However, the West region significantly underperforms, contributing nearly 9 percentage points less than the others. This warrants a strategic review of Western operations, market penetration, or sales efforts.
+Insight: Revenue is fairly evenly distributed across three regions  North, South, and East  each contributing roughly 27%. However, the West region significantly underperforms, contributing nearly 9 percentage points less than the others. This warrants a strategic review of Western operations, market penetration, or sales efforts.
 
 📅 Revenue by Weekday
 
