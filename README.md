@@ -32,7 +32,7 @@ Insight: 2024 started weak compared to 2023 but showed recovery momentum in Q4, 
 2023: Strong Q1–Q2, decline in Q3, partial recovery in Q4.
 2024: Very low Q1, strong Q2 surge, followed by a drop in Q3 and stabilization in Q4.
 
-Insight: Both years show a Q3 weakness, which may point to a seasonal dip in the business cycle. The dramatic Q2 2024 spike is a highlight worth investigating — it could reflect a successful campaign, new product launch, or one-time event.
+Insight: Both years show a Q3 weakness, which may point to a seasonal dip in the business cycle. The dramatic Q2 2024 spike is a highlight worth investigating  it could reflect a successful campaign, new product launch, or one-time event.
 
 ✅ Summary of Key Takeaways
 
