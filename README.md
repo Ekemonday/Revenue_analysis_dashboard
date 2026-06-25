@@ -11,7 +11,7 @@ The Annual Revenue Performance gauge shows the business is operating at roughly 
 
 🌍 Revenue by Region
 RegionRevenueShareNorth$3.71M~27.5%South$3.65M~27.1%East$3.64M~27.0%West$2.49M~18.5%
-Insight: Revenue is fairly evenly distributed across three regions — North, South, and East — each contributing roughly 27%. However, the West region significantly underperforms, contributing nearly 9 percentage points less than the others. This warrants a strategic review of Western operations, market penetration, or sales efforts.
+Insight: Revenue is fairly evenly distributed across three regions — North, South, and East  each contributing roughly 27%. However, the West region significantly underperforms, contributing nearly 9 percentage points less than the others. This warrants a strategic review of Western operations, market penetration, or sales efforts.
 
 📅 Revenue by Weekday
 
@@ -25,7 +25,7 @@ Insight: A near-even split between weekday and weekend revenue suggests the busi
 2023 (green) shows higher and more volatile monthly revenue, peaking around March–April and July, reaching close to $40K.
 2024 (blue) trends generally lower than 2023, with a notable spike in October–November, nearly matching 2023 peaks.
 
-Insight: 2024 started weak compared to 2023 but showed recovery momentum in Q4, which is an encouraging sign. The mid-year dip in 2024 needs investigation — possible causes include seasonality, market changes, or operational disruptions.
+Insight: 2024 started weak compared to 2023 but showed recovery momentum in Q4, which is an encouraging sign. The mid-year dip in 2024 needs investigation  possible causes include seasonality, market changes, or operational disruptions.
 
 📊 Revenue Quarterly Trends (2023 vs 2024)
 
