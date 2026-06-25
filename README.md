@@ -10,7 +10,7 @@ MetricValueTotal Revenue$13.49MAverage Revenue$26.98KDate RangeJan 1, 2023 – D
 The Annual Revenue Performance gauge shows the business is operating at roughly 50% of its average revenue ceiling ($26.98K), suggesting room for growth or a mid-cycle position.
 
 🌍 Revenue by Region
-RegionRevenueShareNorth$3.71M~27.5%South$3.65M~27.1%East$3.64M~27.0%West$2.49M~18.5%
+Region Revenue Share North $3.71M~27.5% South $3.65M~27.1% East $3.64M~27.0% West$2.49M~18.5%
 Insight: Revenue is fairly evenly distributed across three regions — North, South, and East  each contributing roughly 27%. However, the West region significantly underperforms, contributing nearly 9 percentage points less than the others. This warrants a strategic review of Western operations, market penetration, or sales efforts.
 
 📅 Revenue by Weekday
